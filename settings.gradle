@@ -1,0 +1,6 @@
+rootProject.name = "My Application"
+include ':app'
+include ':turbo-shrink'
+include ':nativelib'
+include ':hook-nativelib'
+include ':turbo-memory-plugin'
